@@ -1,9 +1,13 @@
 _repo: Flaxie-Growing-Up-Flaxie-Frizzle-Stories_49186
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Tucker, E. S.
     gutenberg_agent_id: '45183'
     url: http://www.gutenberg.org/2009/agents/45183
+covers:
+- cover_type: archival
+  image_path: 49186-h/images/cover.jpg
 creator:
   author:
     agent_name: May, Sophie
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3465
     wikipedia: http://en.wikipedia.org/wiki/Rebecca_Sophia_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49186#Flaxie-Growing-Up-Flaxie-Frizzle-Stories
 gutenberg_issued: '2015-06-10'
 gutenberg_type: Text
 identifiers:
